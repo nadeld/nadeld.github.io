@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: David Nadel
   email: "nadeld@allegheny.edu"
-  facebook: "https://www.facebook.com/people/David-Nadel/100005921628804" # eg. daattali
+  facebook: "people/David-Nadel/100005921628804" # eg. daattali
   github: nadeld    # eg. daattali
 
 
