@@ -17,7 +17,7 @@ baseurl: ""
 title: David's website
 
 # Short description of your site
-description: David Nadel's website will rock your day!
+description: A virtual proof that name is awesome!
 
 # --- Navigation bar options --- #
 
@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: David Nadel
   email: "nadeld@allegheny.edu"
-  facebook: David Nadel # eg. daattali
+  facebook: "https://www.facebook.com/people/David-Nadel/100005921628804" # eg. daattali
   github: nadeld    # eg. daattali
 
 
