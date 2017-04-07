@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Piracy Interview
-subtitle: Interview I had with Saurang Singh gave me a better understanding of how and why people pirate.
+subtitle: Interview I had with Jerry Bradley gave me a better understanding of how and why people pirate.
 image: /img/utorrent.png
 bigimg: /img/utorrent.png
 ---
 ## TL;DR College students are stealing content and potential revenue from people who put time and effort into their work.
 
-We are in an age where many people are constantly downloading things on the Internet, streaming movies, games, and videos, and also have limited amounts of money. The last statement suggests the question, well how exactly are people able to get access to so many paid applications and services. The answer would be digital pirating, which is when people illegally download files “without the proper rights of legal ownership” (YouthandMedia). So I sat down with Saurang Singh, a Freshman student here at Allegheny College, and asked him questions pertaining with digital piracy and how it has impacted the music, movie, and video game industry. The reason I interviewed him was because he has had plenty of experience pirating games, especially trainers and hacking machines for the games he plays. During our conversation, I asked him 12 questions that I feel are important questions in talking about digital piracy.
-
+We are in an age where many people are constantly downloading things on the Internet, streaming movies, games and videos, all all the price of free. The last statement suggests the question, how are people able to get access to so many paid applications and services. The answer would be digital pirating, which is when people illegally download files “without the proper rights of legal ownership” (YouthandMedia). To find out how this is done I sat down with Jerry Bradley, a Freshman student here at Allegheny College, who has had plenty of experience pirating games, especially trainers and hacking machines for the games he plays. I asked him questions pertaining to digital piracy and how it has impacted the music, movie, and video game industry. The reason I interviewed him was because he has had plenty of experience pirating games, especially trainers and hacking machines for the games he plays.
 
 1)Why do you think college students are the main culprits of piracy?
 
@@ -20,11 +19,11 @@ Piracy is bad because you are not giving the people the money they deserve. Thus
 
 3)How do you think we can enforce piracy?
 
-We will never be able to fully stop piracy; however, by lowering the fee for subscription services and ensuring that the content one puts out is really good quality such as 1080p videos on NetFlix, people will be more encouraged to support the creator. Also, creators might want to consider implementing gamification and perks included with a premium membership such as access to pay-per-view content by listening to a certain amount of songs or watching a certain amount of movies per week This gives the customer an incentive to buy their content. Another reward could be free t-shirts or the option of the costumer's own personal merchandise. One example of enforcement on a college campus is at LSU. LSU will fine people $50 for every piracy offense, record it in the student's permanent record, and see their network access restricted for all their devices (Hopewell).
+We will never be able to fully stop piracy; however, by lowering the fee for subscription services and ensuring that the content one puts out is really good quality such as 1080p videos on NetFlix, people will be more encouraged to support the creator. Also, creators might want to consider implementing gamification and perks included with a premium membership such as access to pay-per-view content by listening to a certain amount of songs or watching a certain amount of movies per week This gives the customer an incentive to buy their content. Another reward could be free t-shirts or the option of the costumer’s own personal merchandise. One example of enforcement on a college campus is at LSU. LSU will fine people $50 for every piracy offense, record it in the student’s permanent record, and see their network access restricted for all their devices (Hopewell).
 
 4)Why do you pirate?
 
-Saurang pirates because of the availability of content, the fact that he can save money, and also make money by downloading stuff illegally and then selling it to his friends for money and personal gain. I looked up what reasons could affect why college students pirate and found that education can play a role in determining who pirates. Typically, people with higher levels of education are more likely to view pirating as unethical (Jackman).
+Jerry pirates because of the availability of content, the fact that he can save money, and also make money by downloading stuff illegally and then selling it to his friends for money and personal gain. I looked up what reasons could affect why college students pirate and found that education can play a role in determining who pirates. Typically, people with higher levels of education are more likely to view pirating as unethical (Jackman).
 
 5)What do you pirate?
 
@@ -32,7 +31,7 @@ He pirates video games such as Call of Duty, movies, programming files, money ge
 
 6)Why would you hack and not play the game legit?
 
-Saurang said he pirates hacking devices and so I asked him why he used hacking devices. He told me that mods can make a game more enjoyable for everyone and add replay value to the game that he is playing. For example, he plays Skyrim and likes to mod the environment with different cities and locations. When he uses hacking devices for multiplayer games he uses a secondary account for hacking. He does this so that he can avoid the possibility of his main account getting banned.
+Jerry said he pirates hacking devices and so I asked him why he used hacking devices. He told me that mods can make a game more enjoyable for everyone and add replay value to the game that he is playing. For example, he plays Skyrim and likes to mod the environment with different cities and locations. When he uses hacking devices for multiplayer games he uses a secondary account for hacking. He does this so that he can avoid the possibility of his main account getting banned.
 
 7)How do you pirate?
 
@@ -40,11 +39,11 @@ One of the websites where he pirates from is Piratebay. His favorite internet br
 
 8)Do you think pirating will ever change?
 
-Saurang thinks pirating will never change. He brought up to me the idea that people want a challenge and when developers say their game is not hackable, people will always want and try to prove them wrong. Most importantly, pirating saves a lot of time and energy and gives the user many options at their disposal.
+Jerry thinks pirating will never change. He brought up to me the idea that people want a challenge and when developers say their game is not hackable, people will always want and try to prove them wrong. Most importantly, pirating saves a lot of time and energy and gives the user many options at their disposal.
 
 9)What ways do you think pirating games will evolve?
 
-He believes that virtual reality will allow the pirating of interpersonal information.There are many people in the world who want to take people's identity and steal credit card information, where you live, and social security information. If this is the case people will be more vigilant and worried about playing games.
+He believes that virtual reality will allow the pirating of interpersonal information.There are many people in the world who want to take people’s identity and steal credit card information, where you live, and social security information. If this is the case people will be more vigilant and worried about playing games.
 
 10)How do you think pirating is good?
 
@@ -58,7 +57,9 @@ He thinks that while pirating is easy in terms of accessing content, a lot of th
 
 He would restrict copyright actions and actively look at pirating websites and see if his stuff is being sold on there. Moreover, he might contact Google and force them to take down all his stuff.
 
-One specific topic of digital piracy that I wanted to focus on was the idea of college students pirating and how we can enforce pirating on campuses. While many studies point out that college students pirate heavily, colleges can find ways to prevent this and reduce pirating by blacklisting certain software such as Utorrent and websites such as Piratebay. Talking to Saurang was insightful in that he has a lot of experience with pirating and can relate to college students' feelings and beliefs about pirating. If we can identify the reasons why college students pirate then maybe we can significantly reduce the amount of illegally downloaded software there is. Over "41% of all software installed on personal computers is obtained illegally" (Yu). Furthermore, in the US economy over 12.5 billion dollars and 71,000 jobs are lost annually from these practices and the overall software industry has lost $53 billion dollars annually (Yu). We can infer from these statistics that we are losing a tremendous amount of money from pirating and therefore it is imperative that we can find new technology to combat digital piracy.
+One specific topic of digital piracy that I wanted to focus on was the idea of college students pirating and how we can enforce pirating on campuses. While many studies point out that college students pirate heavily, colleges can find ways to prevent this and reduce pirating by blacklisting certain software such as Utorrent and websites such as Piratebay. Talking to Jerry was insightful in that he has a lot of experience with pirating and can relate to college students’ feelings and beliefs about pirating. If we can identify the reasons why college students pirate then maybe we can significantly reduce the amount of illegally downloaded software there is. Over “41% of all software installed on personal computers is obtained illegally” (Yu). Furthermore, in the US economy over 12.5 billion dollars and 71,000 jobs are lost annually from these practices and the overall software industry has lost $53 billion dollars annually (Yu). We can infer from these statistics that we are losing a tremendous amount of money from pirating and therefore it is imperative that we can find new technology to combat digital piracy.
+
+
 
 <u>Works Cited</u>
 
