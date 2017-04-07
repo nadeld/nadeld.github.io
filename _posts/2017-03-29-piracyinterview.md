@@ -60,10 +60,7 @@ He would restrict copyright actions and actively look at pirating websites and s
 
 One specific topic of digital piracy that I wanted to focus on was the idea of college students pirating and how we can enforce pirating on campuses. While many studies point out that college students pirate heavily, colleges can find ways to prevent this and reduce pirating by blacklisting certain software such as Utorrent and websites such as Piratebay. Talking to Saurang was insightful in that he has a lot of experience with pirating and can relate to college students' feelings and beliefs about pirating. If we can identify the reasons why college students pirate then maybe we can significantly reduce the amount of illegally downloaded software there is. Over "41% of all software installed on personal computers is obtained illegally" (Yu). Furthermore, in the US economy over 12.5 billion dollars and 71,000 jobs are lost annually from these practices and the overall software industry has lost $53 billion dollars annually (Yu). We can infer from these statistics that we are losing a tremendous amount of money from pirating and therefore it is imperative that we can find new technology to combat digital piracy.
 
-
-
-
-                                Works Cited
+<u>Works Cited</u>
 
 Cushing, Tim . "Study Indicates College Textbook Piracy Is On The Rise, But Fails To Call Out Publishers For Skyrocketing Prices." Techdirt. N.p., 23 Sept. 2014. Web. 07 Apr. 2017.
 
