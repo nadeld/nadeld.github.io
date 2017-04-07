@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Piracy Interview
-subtitle: The ability to pirate music, games, and movies on the Internet has become easier and easier with advances in technological services.
+subtitle: Interview I had with Saurang Singh gave me a better understand of how and why people pirate.
 image: /img/utorrent.png
 bigimg: /img/utorrent.png
 ---
