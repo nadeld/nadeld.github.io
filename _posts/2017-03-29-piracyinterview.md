@@ -46,6 +46,6 @@ We are in an age where many people are constantly downloading things on the Inte
 12)How would you feel if people were pirating your stuff and would you take action?
     He would restrict copyright actions and actively look at pirating websites and see if his stuff is being sold on there. Moreover, he might contact Google and force them to take down all his stuff.
 
-One specific topic of digital piracy that I wanted to focus on was the idea of demographics and how it plays into pirating and which people pirate.
+One specific topic of digital piracy that I wanted to focus on was the idea of college students pirating and how we can enforce pirating on campuses. While many studies point out that college students pirate heavily, colleges can find ways to prevent this and reduce pirating by blacklisting certain software such as Utorrent and websites such as Piratebay. 
 
 <small> <a title="utorrent" href="https://flickr.com/photos/tapaponga/4882557452">utorrent</a> flickr photo by <a href="https://flickr.com/people/tapaponga">tapaponga</a> shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a> </small>
