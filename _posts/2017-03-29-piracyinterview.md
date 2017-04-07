@@ -7,7 +7,7 @@ bigimg: /img/utorrent.png
 ---
 ## TL;DR Pirating benefits Internet users by gaining free-access to content, while owners who create that content are suffering because they are not getting the credit they deserve.
 
-We are in an age where many people are constantly downloading things on the Internet, streaming movies, games, and videos, and also have limited amounts of money. The last statement suggests the question, well how exactly are people able to get access to so many paid applications and services. The answer would be digital pirating, which is when people illegally download files “without the proper rights of legal ownership” (youthandmedia). So I sat down with Saurang Singh, a Freshman student here at Allegheny College, and asked him questions pertaining with digital piracy and how it has impacted the music, movie, and video game industry. The reason I interviewed him was because he has had plenty of experience pirating games, especially trainers and hacking machines for the games he plays. During our conversation, I asked him 12 questions that I feel are important questions in talking about digital piracy.
+We are in an age where many people are constantly downloading things on the Internet, streaming movies, games, and videos, and also have limited amounts of money. The last statement suggests the question, well how exactly are people able to get access to so many paid applications and services. The answer would be digital pirating, which is when people illegally download files “without the proper rights of legal ownership” (YouthandMedia). So I sat down with Saurang Singh, a Freshman student here at Allegheny College, and asked him questions pertaining with digital piracy and how it has impacted the music, movie, and video game industry. The reason I interviewed him was because he has had plenty of experience pirating games, especially trainers and hacking machines for the games he plays. During our conversation, I asked him 12 questions that I feel are important questions in talking about digital piracy.
 
 
 1)Why do you think college students are the main culprits of piracy?
@@ -20,7 +20,7 @@ Piracy is bad because you are not giving the people the money they deserve. Thus
 
 3)How do you think we can enforce piracy?
 
-We will never be able to fully stop piracy; however, by lowering the fee for subscription services and ensuring that the content one puts out is really good quality such as 1080p videos on NetFlix, people will be more encouraged to support the creator. Also, creators might want to consider implementing gamification and perks included with a premium membership such as access to pay-per-view content by listening to a certain amount of songs or watching a certain amount of movies per week This gives the customer an incentive to buy their content. Another reward could be free t-shirts or the option of the costumer's own personal merchandise.
+We will never be able to fully stop piracy; however, by lowering the fee for subscription services and ensuring that the content one puts out is really good quality such as 1080p videos on NetFlix, people will be more encouraged to support the creator. Also, creators might want to consider implementing gamification and perks included with a premium membership such as access to pay-per-view content by listening to a certain amount of songs or watching a certain amount of movies per week This gives the customer an incentive to buy their content. Another reward could be free t-shirts or the option of the costumer's own personal merchandise. One example of enforcement on a college campus is at LSU. LSU will fine people $50 for every piracy offense, record it in the student's permanent record, and see their network access restricted for all their devices (Hopewell).
 
 4)Why do you pirate?
 
@@ -28,7 +28,7 @@ Saurang pirates because of the availability of content, the fact that he can sav
 
 5)What do you pirate?
 
-He pirates video games such as Call of Duty, movies, programming files, money generators, and cheat engines/bots.
+He pirates video games such as Call of Duty, movies, programming files, money generators, and cheat engines/bots. Many college students pirate textbooks since textbooks can be very expensive. Last semester, I had some classes where textbooks cost me $250. The Book Industry Study Group conducted a survey from a group of 1,600 college students and about 25% responded saying that they or someone they knew illegally downloaded textbooks (Cushing).
 
 6)Why would you hack and not play the game legit?
 
@@ -58,6 +58,22 @@ He thinks that while pirating is easy in terms of accessing content, a lot of th
 
 He would restrict copyright actions and actively look at pirating websites and see if his stuff is being sold on there. Moreover, he might contact Google and force them to take down all his stuff.
 
-One specific topic of digital piracy that I wanted to focus on was the idea of college students pirating and how we can enforce pirating on campuses. While many studies point out that college students pirate heavily, colleges can find ways to prevent this and reduce pirating by blacklisting certain software such as Utorrent and websites such as Piratebay. Talking to Saurang was insightful in that he has a lot of experience with pirating and can relate to college students' feelings and beliefs about pirating. If we can identify the reasons why college students pirate then maybe we can significantly reduce the amount of illegally downloaded software there is. Over "41% of all software installed on personal computers is obtained illegally" (Yu). Furthermore, in the US economy over 12.5 billion dollars and 71,000 jobs are lost annually from these practices and the overall software industry has lost $53 billion dollars annually (Yu). We can infer from these statistics that we are losing a tremendous amount of money from pirating and hopefully we can find new technology to combat digital piracy.
+One specific topic of digital piracy that I wanted to focus on was the idea of college students pirating and how we can enforce pirating on campuses. While many studies point out that college students pirate heavily, colleges can find ways to prevent this and reduce pirating by blacklisting certain software such as Utorrent and websites such as Piratebay. Talking to Saurang was insightful in that he has a lot of experience with pirating and can relate to college students' feelings and beliefs about pirating. If we can identify the reasons why college students pirate then maybe we can significantly reduce the amount of illegally downloaded software there is. Over "41% of all software installed on personal computers is obtained illegally" (Yu). Furthermore, in the US economy over 12.5 billion dollars and 71,000 jobs are lost annually from these practices and the overall software industry has lost $53 billion dollars annually (Yu). We can infer from these statistics that we are losing a tremendous amount of money from pirating and therefore it is imperative that we can find new technology to combat digital piracy.
+
+
+
+
+                                Works Cited
+
+Cushing, Tim . "Study Indicates College Textbook Piracy Is On The Rise, But Fails To Call Out Publishers For Skyrocketing Prices." Techdirt. N.p., 23 Sept. 2014. Web. 07 Apr. 2017.
+
+Hopewell, Luke, Libby Watson, and Alex Cranz. "This US College Is Fining Students Who Pirate Content On Its Network." Gizmodo Australia. N.p., 25 July 2014. Web. 07 Apr. 2017.
+
+Jackman, M., & Lorde, T. (2014). Why buy when we can pirate? the role of intentions and willingness to pay in predicting piracy behavior. International Journal of Social Economics, 41(9), 801-819. Retrieved from https://search.proquest.com/docview/1651178465?accountid=8268
+
+Ju, Szde. "College Students’ Justification for Digital Piracy ." Journal of Mixed Methods Research 6.4 (2012): 364-78. SAGE Pub. Web. 7 Apr. 2017.
+
+"What is Digital Piracy." What is Digital Piracy - Youth and Media. N.p., n.d. Web. 07 Apr. 2017.
+
 
 <small> <a title="utorrent" href="https://flickr.com/photos/tapaponga/4882557452">utorrent</a> flickr photo by <a href="https://flickr.com/people/tapaponga">tapaponga</a> shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a> </small>
