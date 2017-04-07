@@ -5,7 +5,7 @@ subtitle: Interview I had with Saurang Singh gave me a better understanding of h
 image: /img/utorrent.png
 bigimg: /img/utorrent.png
 ---
-## TL;DR Pirating benefits Internet users by gaining free-access to content, while owners who create that content are suffering because they are not getting the credit they deserve.
+## TL;DR College students are stealing content and potential revenue from people who put time and effort into their work.
 
 We are in an age where many people are constantly downloading things on the Internet, streaming movies, games, and videos, and also have limited amounts of money. The last statement suggests the question, well how exactly are people able to get access to so many paid applications and services. The answer would be digital pirating, which is when people illegally download files “without the proper rights of legal ownership” (YouthandMedia). So I sat down with Saurang Singh, a Freshman student here at Allegheny College, and asked him questions pertaining with digital piracy and how it has impacted the music, movie, and video game industry. The reason I interviewed him was because he has had plenty of experience pirating games, especially trainers and hacking machines for the games he plays. During our conversation, I asked him 12 questions that I feel are important questions in talking about digital piracy.
 
