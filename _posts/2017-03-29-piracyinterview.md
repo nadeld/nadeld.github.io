@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Piracy Interview
-subtitle: Interview I had with Saurang Singh gave me a better understand of how and why people pirate.
+subtitle: Interview I had with Saurang Singh gave me a better understanding of how and why people pirate.
 image: /img/utorrent.png
 bigimg: /img/utorrent.png
 ---
