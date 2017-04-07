@@ -39,8 +39,10 @@ We are in an age where many people are constantly downloading things on the Inte
 
 10)How do you think pirating is good?
     There are so many things to download for free on the internet and anyone can gain access to the content and therefore this makes people more aware of what is going on and what is available. Additionally, people can gain access to the content from all over the world (not region specific). For example, the new generation of gaming consoles realized that it was important to implement this for the Xbox One and PlayStation 4.
+
 11)Do you think pirating is easy and why?
     He thinks that while pirating is easy in terms of accessing content, a lot of the pirating websites have viruses and so it is imperative that the user is certain that the content will not lead to further problems with his/her computer. Simply put, it seems easy from the surface but in reality, it is risky.
+
 12)How would you feel if people were pirating your stuff and would you take action?
     He would restrict copyright actions and actively look at pirating websites and see if his stuff is being sold on there. Moreover, he might contact Google and force them to take down all his stuff.
 
