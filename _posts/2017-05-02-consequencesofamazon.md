@@ -19,4 +19,11 @@ Some ways we can prevent Amazon from impeding local businesses from growing is g
 https://hbr.org/2014/10/regular-exercise-is-part-of-your-job
 http://money.usnews.com/investing/articles/2016-10-21/amazon-com-inc-amzn-stock-next-industry
 
+not looked at http://www.businessinsider.com/amazon-is-killing-department-stores-2016-5
+http://www.huffingtonpost.com/steven-power/why-amazon-is-bad-for-sma_b_3427279.html
+https://www.forbes.com/sites/ianaltman/2015/10/27/what-amazon-is-doing-to-small-businesses/#404fc5be52d4
+http://www.cnbc.com/2015/12/28/the-battle-has-just-begun-amazon-vs-stores.html
+http://www.slate.com/articles/business/small_business/2012/07/amazon_same_day_delivery_how_the_e_commerce_giant_will_destroy_local_retail_.html
+https://www.dailydot.com/via/amazon-prime-same-day-delivery-economy/
+
 <small> <a title="Amazon.com arrivals" href="https://flickr.com/photos/peskylibrary/1478686778">Amazon.com arrivals</a> flickr photo by <a href="https://flickr.com/people/peskylibrary">Pesky Library</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a> </small>
