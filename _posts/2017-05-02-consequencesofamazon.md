@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Consequences of Online Shopping
-subtitle: A growing company in Amazon has hurts local business all throughout the United States
+subtitle: A growing company in Amazon has hurt local business all throughout the United States
 image: /img/amazon.jpg
 bigimg: /img/amazon.jpg
 ---
