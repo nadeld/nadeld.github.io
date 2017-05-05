@@ -5,7 +5,7 @@ subtitle: Amazon has hurt local business all throughout the United States
 image: /img/amazon.jpg
 bigimg: /img/amazon.jpg
 ---
-## TL;DR Amazon, while making shopping easier and more accessible than ever, has created a monopoly that poses the threat of competing business going bankrupt.
+## TL;DR Amazon, while making shopping easier and more accessible than ever, has created a monopoly that poses the threat of competing businesses going bankrupt.
 
 I am not going to lie I use Amazon for more than half of my shopping. With Amazon Prime, there is a plethora of discounts and benefits for the shopper such as free two-day shipping, 20% off newly-release video games, access to Amazon streaming services, and even benefits for other services such as Twitch. Amazon grants Prime members with a free Twitch Prime membership that gives members free in-game content every month, ad-free viewing, and a free subscription every month. As a constant user of Twitch, these perks are very beneficial and save me a decent chunk of money. Last week, I redeemed my free NBA 2K 75,000 Visual Currency Code which helped me build my MyTeam. This saved me $20 that I did not have to pay because I am an Amazon Prime member. For a gamer like me, Amazon does everything that I need at my fingertips. However, I often forget to realize that it may be affecting businesses such as my father's. So I face a dilemma between using Amazon to buy my product's or requiring a little bit more effort by going to the mall.
 
